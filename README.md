@@ -2,7 +2,7 @@
 
 # Programme d'alignement de reads à une séquence / un génome de référence
 
-# Transformée de Burrows-Wheeler.
+## Transformée de Burrows-Wheeler.
 
 ## Prérequis
 
