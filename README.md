@@ -41,3 +41,8 @@ Avec les arguments suivants:
 ```
 python main.py -f data/Hu-1.fasta -r data/READSsars_cov_2_1e6.fasta
 ```
+
+##### Auteurs
+
+Dylan KLEIN
+Gwendolyn MARGUERIT
